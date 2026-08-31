@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\bin\Debug\Ejercicio 1 - S3.exe.config
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\bin\Debug\Ejercicio 1 - S3.exe
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\bin\Debug\Ejercicio 1 - S3.pdb
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio 1 - S3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio_1___S3.Properties.Resources.resources
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio 1 - S3.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio 1 - S3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio 1 - S3.exe
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio 1 - S3.pdb
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio 1 - S3.exe.config
+C:\Users\UPN\Desktop\FUNAL - Sem3\Ejercicio 1 - S3\obj\Debug\Ejercicio_1___S3.frmEjercicio1.resources
