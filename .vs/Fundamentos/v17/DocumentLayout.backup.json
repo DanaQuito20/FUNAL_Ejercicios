@@ -1,9 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s\\FUNAL_Ejercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\uwu\\FUNAL_Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9999815F-C557-4B9C-9DC9-7DE1C08D373E}|..\\..\\..\\Downloads\\SEM04\\Semana4\\Semana4.pyproj|C:\\Users\\UPN\\Downloads\\SEM04\\Semana4\\Ejercicio4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1AC69FD6-8786-4719-8767-A96AF67B3E66}|Semana5.2\\Semana5.2.csproj|c:\\users\\upn\\desktop\\uwu\\funal_ejercicios\\semana5.2\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC69FD6-8786-4719-8767-A96AF67B3E66}|Semana5.2\\Semana5.2.csproj|solutionrelative:semana5.2\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D32EB15-4169-48FE-84D5-2D855E3D1A3B}|Semana5\\Semana5.pyproj|C:\\Users\\UPN\\Desktop\\uwu\\FUNAL_Ejercicios\\Semana5\\Ejercicio4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D32EB15-4169-48FE-84D5-2D855E3D1A3B}|Semana5\\Semana5.pyproj|solutionrelative:Semana5\\Ejercicio4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,25 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio4.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\SEM04\\Semana4\\Ejercicio4.py",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SEM04\\Semana4\\Ejercicio4.py",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\SEM04\\Semana4\\Ejercicio4.py",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\SEM04\\Semana4\\Ejercicio4.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-09-10T18:32:58.079Z",
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\uwu\\FUNAL_Ejercicios\\Semana5.2\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "Semana5.2\\Ejercicio4.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\uwu\\FUNAL_Ejercicios\\Semana5.2\\Ejercicio4.cs",
+              "RelativeToolTip": "Semana5.2\\Ejercicio4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:31:20.755Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio4.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\uwu\\FUNAL_Ejercicios\\Semana5\\Ejercicio4.py",
+              "RelativeDocumentMoniker": "Semana5\\Ejercicio4.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\uwu\\FUNAL_Ejercicios\\Semana5\\Ejercicio4.py",
+              "RelativeToolTip": "Semana5\\Ejercicio4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-17T18:19:41.13Z",
+              "EditorCaption": ""
             }
           ]
         }
