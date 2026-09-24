@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\obj\Debug\Ejercicio8.pdb
+C:\Users\UPN\Desktop\Sem4\Ejercicio8\obj\Debug\Ejercicio8.exe.config

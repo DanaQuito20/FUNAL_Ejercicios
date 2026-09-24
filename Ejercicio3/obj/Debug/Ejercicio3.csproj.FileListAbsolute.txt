@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\UPN\Desktop\Sem4\Ejercicio3\obj\Debug\Ejercicio3.exe.config
