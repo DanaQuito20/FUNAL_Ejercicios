@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|c:\\users\\upn\\desktop\\s7\\funal_ejercicios\\semana7 - ejercicios\\ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|solutionrelative:ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|c:\\users\\upn\\desktop\\s7\\funal_ejercicios\\semana7 - ejercicios\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|solutionrelative:ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Semana7 - Ejercicios||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|c:\\users\\upn\\desktop\\s7\\funal_ejercicios\\semana7 - ejercicios\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|solutionrelative:ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC694E6C-68EE-49D1-9DE6-753A2700A066}|Semana7 - Ejercicios.csproj|c:\\users\\upn\\desktop\\s7\\funal_ejercicios\\semana7 - ejercicios\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Semana7 - Ejercicios",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Semana7 - Ejercicios.csproj",
+              "RelativeDocumentMoniker": "Semana7 - Ejercicios.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Semana7 - Ejercicios.csproj",
+              "RelativeToolTip": "Semana7 - Ejercicios.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T17:58:52.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Ejercicio5.cs",
+              "RelativeDocumentMoniker": "Ejercicio5.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Ejercicio5.cs",
+              "RelativeToolTip": "Ejercicio5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T17:40:21.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Ejercicio7.cs",
+              "RelativeDocumentMoniker": "Ejercicio7.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Ejercicio7.cs",
+              "RelativeToolTip": "Ejercicio7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T17:58:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio14.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Ejercicio14.cs",
+              "RelativeDocumentMoniker": "Ejercicio14.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7 - Ejercicios\\Ejercicio14.cs",
+              "RelativeToolTip": "Ejercicio14.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:22:46.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

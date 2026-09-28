@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\bin\Debug\Semana7 - Ejercicios.exe.config
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\bin\Debug\Semana7 - Ejercicios.exe
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\bin\Debug\Semana7 - Ejercicios.pdb
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\obj\Debug\Semana7 - Ejercicios.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\obj\Debug\Semana7 - Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\obj\Debug\Semana7 - Ejercicios.exe
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\obj\Debug\Semana7 - Ejercicios.pdb
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7 - Ejercicios\obj\Debug\Semana7 - Ejercicios.exe.config

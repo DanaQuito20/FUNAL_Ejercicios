@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\bin\Debug\Semana7.exe.config
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\bin\Debug\Semana7.exe
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\bin\Debug\Semana7.pdb
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\obj\Debug\Semana7.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\obj\Debug\Semana7.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\obj\Debug\Semana7.exe
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\obj\Debug\Semana7.pdb
+C:\Users\UPN\Desktop\s7\FUNAL_Ejercicios\Semana7\obj\Debug\Semana7.exe.config
