@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana 8", "Semana 8.csproj", "{76E34D51-6316-47A2-B111-3437855EAFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana 8 - Ejercicios", "..\Semana 8 - Ejercicios\Semana 8 - Ejercicios.csproj", "{33D8E458-513A-4DFF-885C-AD4626C51D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E34D51-6316-47A2-B111-3437855EAFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E34D51-6316-47A2-B111-3437855EAFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E34D51-6316-47A2-B111-3437855EAFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E34D51-6316-47A2-B111-3437855EAFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D8E458-513A-4DFF-885C-AD4626C51D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D8E458-513A-4DFF-885C-AD4626C51D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D8E458-513A-4DFF-885C-AD4626C51D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D8E458-513A-4DFF-885C-AD4626C51D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D0F40A5-A26A-468F-8E97-8853EB8B03FE}
+	EndGlobalSection
+EndGlobal
