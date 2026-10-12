@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\bin\Debug\Semana 9.2.exe.config
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\bin\Debug\Semana 9.2.exe
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\bin\Debug\Semana 9.2.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\bin\Debug\Calculadora - Biblioteca.dll
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\bin\Debug\Calculadora - Biblioteca.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\obj\Debug\Semana 9.2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\obj\Debug\Semana 9.2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\obj\Debug\Semana 9.2.csproj.Up2Date
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\obj\Debug\Semana 9.2.exe
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\obj\Debug\Semana 9.2.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9.2\obj\Debug\Semana 9.2.exe.config

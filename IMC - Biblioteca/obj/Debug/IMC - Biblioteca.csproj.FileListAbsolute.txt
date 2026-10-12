@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\IMC - Biblioteca\bin\Debug\IMC - Biblioteca.dll
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\IMC - Biblioteca\bin\Debug\IMC - Biblioteca.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\IMC - Biblioteca\obj\Debug\IMC - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\IMC - Biblioteca\obj\Debug\IMC - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\IMC - Biblioteca\obj\Debug\IMC - Biblioteca.dll
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\IMC - Biblioteca\obj\Debug\IMC - Biblioteca.pdb

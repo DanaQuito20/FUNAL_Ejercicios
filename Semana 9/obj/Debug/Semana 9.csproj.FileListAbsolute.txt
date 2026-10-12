@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\bin\Debug\Semana 9.exe.config
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\bin\Debug\Semana 9.exe
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\bin\Debug\Semana 9.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\obj\Debug\Semana 9.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\obj\Debug\Semana 9.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\obj\Debug\Semana 9.exe
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\obj\Debug\Semana 9.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\bin\Debug\IMC - Biblioteca.dll
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\bin\Debug\IMC - Biblioteca.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\obj\Debug\Semana 9.exe.config
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Semana 9\obj\Debug\Semana 9.csproj.Up2Date

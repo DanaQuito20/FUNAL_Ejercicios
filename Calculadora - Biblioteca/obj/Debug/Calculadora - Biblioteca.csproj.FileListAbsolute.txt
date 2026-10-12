@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Calculadora - Biblioteca\bin\Debug\Calculadora - Biblioteca.dll
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Calculadora - Biblioteca\bin\Debug\Calculadora - Biblioteca.pdb
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Calculadora - Biblioteca\obj\Debug\Calculadora - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Calculadora - Biblioteca\obj\Debug\Calculadora - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Calculadora - Biblioteca\obj\Debug\Calculadora - Biblioteca.dll
+C:\Users\UPN\Desktop\s9\FUNAL_Ejercicios\Calculadora - Biblioteca\obj\Debug\Calculadora - Biblioteca.pdb
