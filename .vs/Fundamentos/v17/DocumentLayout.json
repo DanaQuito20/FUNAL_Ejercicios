@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B759C8-D63E-4762-BC47-4BE7B4176ED0}|Semana7\\Semana7.pyproj|C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A1B759C8-D63E-4762-BC47-4BE7B4176ED0}|Semana7\\Semana7.pyproj|solutionrelative:Semana7\\Ejercicio1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B759C8-D63E-4762-BC47-4BE7B4176ED0}|Semana7\\Semana7.pyproj|C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A1B759C8-D63E-4762-BC47-4BE7B4176ED0}|Semana7\\Semana7.pyproj|solutionrelative:Semana7\\Ejercicio2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B759C8-D63E-4762-BC47-4BE7B4176ED0}|Semana7\\Semana7.pyproj|C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A1B759C8-D63E-4762-BC47-4BE7B4176ED0}|Semana7\\Semana7.pyproj|solutionrelative:Semana7\\Ejercicio3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana 9.pyproj|C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana 9.pyproj|solutionrelative:Semana 9\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio1.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio1.py",
-              "RelativeDocumentMoniker": "Semana7\\Ejercicio1.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio1.py",
-              "RelativeToolTip": "Semana7\\Ejercicio1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Title": "Principal.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Principal.py",
+              "RelativeDocumentMoniker": "Semana 9\\Principal.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Principal.py",
+              "RelativeToolTip": "Semana 9\\Principal.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-01T17:43:15.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ejercicio2.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio2.py",
-              "RelativeDocumentMoniker": "Semana7\\Ejercicio2.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio2.py",
-              "RelativeToolTip": "Semana7\\Ejercicio2.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-01T17:43:42.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ejercicio3.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio3.py",
-              "RelativeDocumentMoniker": "Semana7\\Ejercicio3.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s7\\FUNAL_Ejercicios\\Semana7\\Ejercicio3.py",
-              "RelativeToolTip": "Semana7\\Ejercicio3.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-01T17:43:48.501Z",
+              "WhenOpened": "2026-10-15T17:49:46.561Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
