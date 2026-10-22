@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana 9.pyproj|C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana 9.pyproj|solutionrelative:Semana 9\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|solutionrelative:Semana10\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana9.pyproj|C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Rectangulo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana9.pyproj|solutionrelative:Semana 9\\Rectangulo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana 9.pyproj|C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Cuadrado.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana 9.pyproj|solutionrelative:Semana 9\\Cuadrado.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana9.pyproj|C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Tri\u00E1ngulo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana9.pyproj|solutionrelative:Semana 9\\Tri\u00E1ngulo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana9.pyproj|C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Trapecio.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{19D28185-0FD4-471B-8045-C649F30B589D}|Semana 9\\Semana9.pyproj|solutionrelative:Semana 9\\Trapecio.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Cajero.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|solutionrelative:Semana10\\Cajero.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,66 +24,28 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Principal.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Principal.py",
-              "RelativeDocumentMoniker": "Semana 9\\Principal.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Principal.py*",
-              "RelativeToolTip": "Semana 9\\Principal.py*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Principal.py",
+              "RelativeDocumentMoniker": "Semana10\\Principal.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Principal.py",
+              "RelativeToolTip": "Semana10\\Principal.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-15T17:49:46.561Z",
+              "WhenOpened": "2026-10-22T17:36:49.318Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Rectangulo.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Rectangulo.py",
-              "RelativeDocumentMoniker": "Semana 9\\Rectangulo.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Rectangulo.py*",
-              "RelativeToolTip": "Semana 9\\Rectangulo.py*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Title": "Cajero.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Cajero.py",
+              "RelativeDocumentMoniker": "Semana10\\Cajero.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Cajero.py",
+              "RelativeToolTip": "Semana10\\Cajero.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-15T18:16:50.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Trapecio.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Trapecio.py",
-              "RelativeDocumentMoniker": "Semana 9\\Trapecio.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Trapecio.py",
-              "RelativeToolTip": "Semana 9\\Trapecio.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-15T18:17:00.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tri\u00E1ngulo.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Tri\u00E1ngulo.py",
-              "RelativeDocumentMoniker": "Semana 9\\Tri\u00E1ngulo.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Tri\u00E1ngulo.py",
-              "RelativeToolTip": "Semana 9\\Tri\u00E1ngulo.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-15T18:17:01.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cuadrado.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Cuadrado.py",
-              "RelativeDocumentMoniker": "Semana 9\\Cuadrado.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem9\\FUNAL_Ejercicios\\Semana 9\\Cuadrado.py",
-              "RelativeToolTip": "Semana 9\\Cuadrado.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-15T17:50:55.997Z",
+              "WhenOpened": "2026-10-22T17:48:10.967Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
