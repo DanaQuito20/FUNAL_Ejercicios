@@ -17,6 +17,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana9", "Semana 9\Semana9
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana10", "Semana10\Semana10.pyproj", "{BEB801FE-4CFF-450B-8F64-9768DF53D158}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana11", "Semana11\Semana11.csproj", "{1A77DCFF-373A-4661-943A-EEAF0623D201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{19D28185-0FD4-471B-8045-C649F30B589D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEB801FE-4CFF-450B-8F64-9768DF53D158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BEB801FE-4CFF-450B-8F64-9768DF53D158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A77DCFF-373A-4661-943A-EEAF0623D201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A77DCFF-373A-4661-943A-EEAF0623D201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A77DCFF-373A-4661-943A-EEAF0623D201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A77DCFF-373A-4661-943A-EEAF0623D201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

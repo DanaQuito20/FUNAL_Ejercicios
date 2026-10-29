@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s11\\FUNAL_Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|solutionrelative:Semana10\\Principal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Cajero.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BEB801FE-4CFF-450B-8F64-9768DF53D158}|Semana10\\Semana10.pyproj|solutionrelative:Semana10\\Cajero.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1A77DCFF-373A-4661-943A-EEAF0623D201}|Semana11\\Semana11.csproj|c:\\users\\upn\\desktop\\s11\\funal_ejercicios\\semana11\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A77DCFF-373A-4661-943A-EEAF0623D201}|Semana11\\Semana11.csproj|solutionrelative:semana11\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,29 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Principal.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Principal.py",
-              "RelativeDocumentMoniker": "Semana10\\Principal.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Principal.py",
-              "RelativeToolTip": "Semana10\\Principal.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-22T17:36:49.318Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cajero.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Cajero.py",
-              "RelativeDocumentMoniker": "Semana10\\Cajero.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s10\\FUNAL_Ejercicios\\Semana10\\Cajero.py",
-              "RelativeToolTip": "Semana10\\Cajero.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-22T17:48:10.967Z",
-              "IsPinned": true,
+              "Title": "Ejercicios.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s11\\FUNAL_Ejercicios\\Semana11\\Ejercicios.cs",
+              "RelativeDocumentMoniker": "Semana11\\Ejercicios.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s11\\FUNAL_Ejercicios\\Semana11\\Ejercicios.cs*",
+              "RelativeToolTip": "Semana11\\Ejercicios.cs*",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwI8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:38:09.642Z",
               "EditorCaption": ""
             }
           ]
