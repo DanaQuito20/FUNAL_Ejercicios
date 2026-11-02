@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12 - Biblioteca\bin\Debug\Semana 12 - Biblioteca.dll
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12 - Biblioteca\bin\Debug\Semana 12 - Biblioteca.pdb
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12 - Biblioteca\obj\Debug\Semana 12 - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12 - Biblioteca\obj\Debug\Semana 12 - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12 - Biblioteca\obj\Debug\Semana 12 - Biblioteca.dll
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12 - Biblioteca\obj\Debug\Semana 12 - Biblioteca.pdb

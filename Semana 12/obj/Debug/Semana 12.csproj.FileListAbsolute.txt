@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\bin\Debug\Semana 12.exe.config
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\bin\Debug\Semana 12.exe
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\bin\Debug\Semana 12.pdb
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\obj\Debug\Semana 12.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\obj\Debug\Semana 12.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\obj\Debug\Semana 12.exe
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\obj\Debug\Semana 12.pdb
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\obj\Debug\Semana 12.exe.config
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\bin\Debug\Semana 12 - Biblioteca.dll
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\bin\Debug\Semana 12 - Biblioteca.pdb
+C:\Users\UPN\Desktop\s12\FUNAL_Ejercicios\Semana 12\obj\Debug\Semana 12.csproj.Up2Date
