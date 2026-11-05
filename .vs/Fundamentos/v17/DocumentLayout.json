@@ -1,10 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s11\\FUNAL_Ejercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A77DCFF-373A-4661-943A-EEAF0623D201}|Semana11\\Semana11.csproj|c:\\users\\upn\\desktop\\s11\\funal_ejercicios\\semana11\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A77DCFF-373A-4661-943A-EEAF0623D201}|Semana11\\Semana11.csproj|solutionrelative:semana11\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|c:\\users\\upn\\desktop\\s12\\funal_ejercicios\\semana12\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|solutionrelative:semana12\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|c:\\users\\upn\\desktop\\s12\\funal_ejercicios\\semana12\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|solutionrelative:semana12\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Semana12||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|c:\\users\\upn\\desktop\\s12\\funal_ejercicios\\semana12\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +24,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Semana12",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Semana12.csproj",
+              "RelativeDocumentMoniker": "Semana12\\Semana12.csproj",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Semana12.csproj",
+              "RelativeToolTip": "Semana12\\Semana12.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-05T17:44:33.977Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicios.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s11\\FUNAL_Ejercicios\\Semana11\\Ejercicios.cs",
-              "RelativeDocumentMoniker": "Semana11\\Ejercicios.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s11\\FUNAL_Ejercicios\\Semana11\\Ejercicios.cs",
-              "RelativeToolTip": "Semana11\\Ejercicios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAgAAAAAAAAAA==",
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Semana12\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Ejercicio.cs",
+              "RelativeToolTip": "Semana12\\Ejercicio.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T17:38:09.642Z",
+              "WhenOpened": "2026-11-05T17:43:19.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "Semana12\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Estudiantes.cs",
+              "RelativeToolTip": "Semana12\\Estudiantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T17:44:07.591Z",
               "EditorCaption": ""
             }
           ]
