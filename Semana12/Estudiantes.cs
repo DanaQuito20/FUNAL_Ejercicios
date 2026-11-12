@@ -46,14 +46,44 @@ namespace Semana12
             }
         }
 
-        public void Eliminar()
+        public void Eliminar(byte edad)
         {
+            int indice = Array.IndexOf(Edades, edad); string continuar;
 
+            do
+            {
+                if (indice != -1)
+                {
+                    for (int i = indice; i < Edades.Length - 1; i++) Edades[i] = Edades[i + 1];
+                    Array.Resize(ref Edades, Edades.Length - 1); cantidad--;
+                    Console.WriteLine("\n¡Edad eliminada con éxito!");
+                }
+                else Console.WriteLine("La edad no existe en el arreglo.");
+
+                do
+                {
+                    Console.Write("\n¿Desea eliminar otra edad? (SI / NO): ");
+                    continuar = Console.ReadLine().ToUpper().Trim();
+                    if (continuar != "SI" && continuar != "NO") Console.WriteLine("Error. Ingrese solo SI o NO.\n");
+                } while (continuar != "SI" && continuar != "NO");
+            } while (continuar == "SI");
         }
 
         public void Ordenar()
         {
-
+            for (int i = 0; i < Edades.Length - 1; i++)
+            {
+                for (int j = 0; j < Edades.Length - 1 - i; j++)
+                {
+                    if (Edades[j] < Edades[j + 1])
+                    {
+                        byte temporal = Edades[j];
+                        Edades[j] = Edades[j + 1];
+                        Edades[j + 1] = temporal;
+                    }
+                }
+            }
+            Console.WriteLine("\n¡Edades ordenadas con éxito!");
         }
     }
 }

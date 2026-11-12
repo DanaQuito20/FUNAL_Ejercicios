@@ -34,10 +34,13 @@ namespace Semana12
 
                 switch (opcion)
                 {
-                    case 0: Environment.Exit(0); break;
+                    case 0: Console.WriteLine("Gracias por usar el sistema, ¡vuelva pronto!"); Environment.Exit(0); break;
                     case 1: Estudiantes.Insertar(); break;
                     case 2: Estudiantes.Mostrar(); break;
-                    case 3: Estudiantes.Eliminar(); break;
+                    case 3:
+                        Console.Write("\nIngrese la edad a eliminar: ");
+                        byte edad = byte.Parse(Console.ReadLine());
+                        Estudiantes.Eliminar(edad); break;
                     case 4: Estudiantes.Ordenar(); break;
                 }
 

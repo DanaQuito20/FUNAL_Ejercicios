@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Tareitas o cositas as\u00ED\\FUNAL_Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160FD0BA-9FEC-4D24-8B33-2CA1557538DA}|Semana13\\Semana13.csproj|c:\\users\\hp\\onedrive\\desktop\\tareitas o cositas as\u00ED\\funal_ejercicios\\semana13\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160FD0BA-9FEC-4D24-8B33-2CA1557538DA}|Semana13\\Semana13.csproj|solutionrelative:semana13\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160FD0BA-9FEC-4D24-8B33-2CA1557538DA}|Semana13\\Semana13.csproj|c:\\users\\hp\\onedrive\\desktop\\tareitas o cositas as\u00ED\\funal_ejercicios\\semana13\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160FD0BA-9FEC-4D24-8B33-2CA1557538DA}|Semana13\\Semana13.csproj|solutionrelative:semana13\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Tareitas o cositas as\u00ED\\FUNAL_Ejercicios\\Semana13\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Semana13\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Tareitas o cositas as\u00ED\\FUNAL_Ejercicios\\Semana13\\Ejercicio.cs*",
+              "RelativeToolTip": "Semana13\\Ejercicio.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T18:22:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Tareitas o cositas as\u00ED\\FUNAL_Ejercicios\\Semana13\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "Semana13\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Tareitas o cositas as\u00ED\\FUNAL_Ejercicios\\Semana13\\Estudiantes.cs",
+              "RelativeToolTip": "Semana13\\Estudiantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T18:25:55.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

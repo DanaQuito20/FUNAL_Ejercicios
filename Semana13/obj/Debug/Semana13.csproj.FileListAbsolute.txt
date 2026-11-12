@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\bin\Debug\Semana13.exe.config
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\bin\Debug\Semana13.exe
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\bin\Debug\Semana13.pdb
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\obj\Debug\Semana13.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\obj\Debug\Semana13.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\obj\Debug\Semana13.exe
+C:\Users\HP\OneDrive\Desktop\Tareitas o cositas así\FUNAL_Ejercicios\Semana13\obj\Debug\Semana13.pdb
