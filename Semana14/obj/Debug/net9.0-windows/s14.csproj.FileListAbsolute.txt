@@ -1,0 +1,17 @@
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\bin\Debug\net9.0-windows\s14.exe
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\bin\Debug\net9.0-windows\s14.deps.json
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\bin\Debug\net9.0-windows\s14.runtimeconfig.json
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\bin\Debug\net9.0-windows\s14.dll
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\bin\Debug\net9.0-windows\s14.pdb
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.Form1.resources
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.AssemblyInfo.cs
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.sourcelink.json
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.dll
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\refint\s14.dll
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.pdb
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\s14.genruntimeconfig.cache
+C:\Users\UPN\Desktop\s13\FUNAL_Ejercicios\s14\obj\Debug\net9.0-windows\ref\s14.dll

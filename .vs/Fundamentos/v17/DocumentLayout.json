@@ -1,20 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s13\\FUNAL_Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|c:\\users\\upn\\desktop\\s12\\funal_ejercicios\\semana12\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|solutionrelative:semana12\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542058EB-DE83-455D-8DD5-2CF3D9B51CCA}|s14\\Semana14.csproj|c:\\users\\upn\\desktop\\s13\\funal_ejercicios\\s14\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542058EB-DE83-455D-8DD5-2CF3D9B51CCA}|s14\\Semana14.csproj|solutionrelative:s14\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|c:\\users\\upn\\desktop\\s12\\funal_ejercicios\\semana12\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|solutionrelative:semana12\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Semana12||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCF59226-A3CC-435E-B4F6-07EB51A81D0F}|Semana12\\Semana12.csproj|c:\\users\\upn\\desktop\\s12\\funal_ejercicios\\semana12\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{542058EB-DE83-455D-8DD5-2CF3D9B51CCA}|s14\\Semana14.csproj|c:\\users\\upn\\desktop\\s13\\funal_ejercicios\\s14\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{542058EB-DE83-455D-8DD5-2CF3D9B51CCA}|s14\\Semana14.csproj|solutionrelative:s14\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,41 +22,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Semana12",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Semana12.csproj",
-              "RelativeDocumentMoniker": "Semana12\\Semana12.csproj",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Semana12.csproj",
-              "RelativeToolTip": "Semana12\\Semana12.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-11-05T17:44:33.977Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Ejercicio1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s13\\FUNAL_Ejercicios\\s14\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "s14\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s13\\FUNAL_Ejercicios\\s14\\Ejercicio1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "s14\\Ejercicio1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:39:26.869Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Ejercicio.cs",
-              "RelativeDocumentMoniker": "Semana12\\Ejercicio.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Ejercicio.cs",
-              "RelativeToolTip": "Semana12\\Ejercicio.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s13\\FUNAL_Ejercicios\\s14\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "s14\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s13\\FUNAL_Ejercicios\\s14\\Ejercicio1.cs",
+              "RelativeToolTip": "s14\\Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T17:43:19.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Estudiantes.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Estudiantes.cs",
-              "RelativeDocumentMoniker": "Semana12\\Estudiantes.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s12\\FUNAL_Ejercicios\\Semana12\\Estudiantes.cs",
-              "RelativeToolTip": "Semana12\\Estudiantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T17:44:07.591Z",
+              "WhenOpened": "2026-11-19T18:13:08.218Z",
               "EditorCaption": ""
             }
           ]
